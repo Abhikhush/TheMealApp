@@ -33,4 +33,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Acknowledgments
 
-- The Meal DB API (https://www.themealdb.com
+- The Meal DB API (https://www.themealdb.com/api.php)
