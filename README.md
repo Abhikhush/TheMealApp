@@ -20,9 +20,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- A web browser (e.g. Google Chrome, Firefox, Safari)
+- A web browser
 - An internet connection
-- A code editor (e.g. VS Code, Atom)
+- A code editor
 
 ### Installing
 
@@ -35,18 +35,6 @@ These instructions will get you a copy of the project up and running on your loc
 - HTML
 - CSS
 - JavaScript
-
-## Demo
-
-Check out the live demo of the application at https://imsahadeb.github.io/The-Meal-App-Coding-Ninjas/
-
-## Authors
-
-- [@imsahadeb](https://github.com/imsahadeb)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
